@@ -2,8 +2,9 @@
 #Coriander sauce
 - 100gm Coriander
 - 4 garlic cloves
-- salt
+- sugar
 - 1/2 lime
 
-## Making a paste
 
+## Making a paste
+Grind all ingredients into paste
